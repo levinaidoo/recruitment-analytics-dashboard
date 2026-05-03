@@ -17,15 +17,15 @@ The solution allows recruiters and management to **instantly assess performance*
 
 #  Key Features
 
-- 📊 Dynamic dashboard with slicers (weekly filtering)
-- 📉 Cumulative recruitment funnel:
+- Dynamic dashboard with slicers (weekly filtering)
+-  Cumulative recruitment funnel:
   - Headhunted → Contacted → Interested → Submitted → Interviewed → Placed
-- 🎯 KPI indicators using conditional formatting:
+- KPI indicators using conditional formatting:
   - 🔴 Red → Action required
   - 🟡 Yellow → Moderate performance
   - 🟢 Green → Target achieved
-- 📅 Weekly trend analysis
-- ⚡ Fully dynamic calculations that update automatically based on selected time period
+-  Weekly trend analysis
+-  Fully dynamic calculations that update automatically based on selected time period
 
 
 #  Technical Implementation
